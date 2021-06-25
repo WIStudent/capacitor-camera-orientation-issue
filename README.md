@@ -4,7 +4,7 @@ Project to reproduce Issue ["Camera - android - Image has wrong orientation"](ht
 
 ```
 npm install
-npm build
+npm run build
 npx cap run android
 ```
 
