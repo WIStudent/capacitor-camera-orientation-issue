@@ -1,0 +1,21 @@
+{
+  "name": "capacitor-camera-orientation-issue",
+  "version": "1.0.0",
+  "description": "An Amazing Capacitor App",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.0.2",
+    "@capacitor/camera": "^1.0.2",
+    "@capacitor/core": "^3.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.0.2",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "rollup": "^2.52.3",
+    "rollup-plugin-copy": "^3.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
